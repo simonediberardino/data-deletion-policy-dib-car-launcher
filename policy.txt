@@ -1,0 +1,40 @@
+# Data Deletion Policy
+
+## Purpose
+This Data Deletion Policy outlines the procedures for deleting data collected and processed by Dib Car Launcher ("Company") to ensure compliance with applicable data protection laws and regulations.
+
+## Scope
+This policy applies to all personal data processed by the Company, including data collected from users, employees, and third parties.
+
+## Data Deletion Request
+Users can request the deletion of their data by contacting us via email at dibcarlauncher@gmail.com. The request should include:
+- Full name
+- Email address associated with the data
+- Description of the data to be deleted
+
+## Types of Data Subject to Deletion
+- Personal data provided by the user (e.g., name, email address, contact information)
+- Usage data collected through interaction with our services
+- Any other data that can be used to identify an individual
+
+## Deletion Process
+1. **Verification of Request**: Upon receiving a deletion request, the Company will verify the identity of the requester to ensure that the request is legitimate.
+2. **Data Identification**: The Company will identify all data related to the requester that is subject to deletion.
+3. **Data Deletion**: The identified data will be deleted from our systems and any third-party systems where the data may be stored.
+4. **Confirmation**: The Company will confirm the deletion to the requester via email once the process is complete.
+
+## Timeframe for Deletion
+The Company will endeavor to delete the requested data within 30 days of receiving a verified deletion request. If additional time is required, the requester will be informed of the delay and the reasons for it.
+
+## Exceptions
+Certain data may be exempt from deletion if required by law, necessary for the establishment, exercise, or defense of legal claims, or for other legitimate business purposes. In such cases, the requester will be informed of the reason for the exemption.
+
+## Retention of Data
+Data that is not subject to a deletion request will be retained in accordance with our Data Retention Policy, which specifies the duration for which different types of data will be stored.
+
+## Contact Information
+For any questions or concerns regarding this Data Deletion Policy, please contact us at:
+Email: dibcarlauncher@gmail.com
+
+## Review and Updates
+This policy will be reviewed periodically and updated as necessary to ensure compliance with applicable laws and regulations. Any changes to the policy will be communicated to users through our standard communication channels.
